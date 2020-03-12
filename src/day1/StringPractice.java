@@ -5,5 +5,6 @@ public class StringPractice {
     {
         System.out.println("Hello Word. GitHub setup");
         System.out.println("My colors");
+        System.out.println("My colors");
     }
 }
