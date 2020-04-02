@@ -1,4 +1,4 @@
-package day1;
+package test.java.tests;
 
 public class StringPractice {
     public static void main(String[] args) {
